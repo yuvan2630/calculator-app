@@ -1,0 +1,26 @@
+body {
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.calculator {
+    background: gray;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+}
